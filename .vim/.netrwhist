@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/splitline/Documents/maccommands'
+let g:netrw_dirhist_2='/Applications/XAMPP/xamppfiles/htdocs/zendskeleton/config'
+let g:netrw_dirhist_3='/Applications/XAMPP/xamppfiles/htdocs/zendskeleton/config/autoload'
+let g:netrw_dirhist_4='/usr/local/autoconf'
+let g:netrw_dirhist_5='/usr/bin'
+let g:netrw_dirhist_6='/Applications/XAMPP/xamppfiles/etc'

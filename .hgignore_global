@@ -1,0 +1,6 @@
+syntax: glob
+
+*~
+.DS_Store
+65ce13f1d8224e0ddd8303048d8b10b9.php
+.gitignore
