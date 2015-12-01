@@ -18,6 +18,10 @@ colorscheme molokai
 
 execute pathogen#infect()
 
+map <C-n> :NERDTreeToggle<CR>
+
+nmap <F8> :TagbarToggle<CR>
+
 let g:tagbar_type_go = {  
     \ 'ctagstype' : 'go',
     \ 'kinds'     : [
