@@ -5,6 +5,10 @@ filetype plugin on
 set number  
 let g:go_disable_autoinstall = 0
 
+set omnifunc=syntaxcomplete#Complete
+let g:SuperTabDefaultCompletionType = "<C-X><C-O>"
+let g:SuperTabDefaultCompletionType = "context"
+
 " Highlight
 let g:go_highlight_functions = 1  
 let g:go_highlight_methods = 1  
