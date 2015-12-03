@@ -1,7 +1,11 @@
+export PATH=/usr/local/bin:$PATH
+
 export PATH=/usr/local/autoconf/bin:$PATH
 export PATH=/usr/local/autoconf/bin:$PATH
 export PATH=/usr/local/autoconf/bin:$PATH
-# for go
+
+
+ #for go
 export PATH=$GOPATH/bin:$PATH
 # for app_engine
 export PATH=/Users/splitline/go_appengine:$PATH
